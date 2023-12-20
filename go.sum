@@ -1,0 +1,4 @@
+github.com/takashabe/multi-module-exercise/mod1 v0.0.1 h1:WCiWU/VCPomzRUWKhqqErO9abAsaaMt+qkHl1BEztGQ=
+github.com/takashabe/multi-module-exercise/mod1 v0.0.1/go.mod h1:xsT+nn1plL0+JLMU1elOE/jauKhCRq7zDI51uIEf88U=
+github.com/takashabe/multi-module-exercise/mod2 v0.0.2 h1:rSU3TbAerM+rgRhQLIAo4SQYAEi4nN4V2VZGDgn4hq8=
+github.com/takashabe/multi-module-exercise/mod2 v0.0.2/go.mod h1:SEz6ZhtxJkDtXUUWiK9OF4KxzoRFVdB5VQPYNCtBo1M=
